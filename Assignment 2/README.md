@@ -203,6 +203,7 @@ The script auto-generates a CSV file after every run:
 cat log_report.csv
 
 ---
+```
 
 ## 📝 Q4 — Automated Backup Script
 
@@ -268,6 +269,7 @@ done
 
 
 ---
+```
 
 ## 📝 Q5 — User Account Reporter
 
@@ -313,6 +315,7 @@ cat user_report.txt
 ### Check the HTML report
 ```bash
 cat user_report.html
+```
 
 
 ## 🔧 Common Errors and Fixes
@@ -359,9 +362,10 @@ sudo ./q5_user_report.sh
 ```
 
 ---
-
+```
 
 *Tested on Kali Linux | CampusPe Cybersecurity*
+
 
 
 
