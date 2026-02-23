@@ -1,0 +1,55 @@
+
+======================================
+         USER ACCOUNT REPORT         
+======================================
+
+=== USER STATISTICS ===
+Total Users              : 57
+System Users (UID < 1000): 55
+Regular Users (UID>=1000): 1
+Currently Logged In      : 1
+
+Currently logged in users:
+   - kali (logged in from terminal seat0)
+
+=== REGULAR USER DETAILS ===
+Username        UID    Home Directory            Shell          
+-------- --- -------------- -----
+kali            100   /home/kali                /usr/bin/zsh   
+
+=== LAST LOGIN INFO ===
+   kali : 
+
+=== GROUP INFORMATION ===
+Groups and their member count:
+   root                 (GID: 0    ) - 0 member(s)
+   daemon               (GID: 1    ) - 0 member(s)
+   bin                  (GID: 2    ) - 0 member(s)
+   sys                  (GID: 3    ) - 0 member(s)
+   adm                  (GID: 4    ) - 1 member(s)
+   tty                  (GID: 5    ) - 0 member(s)
+   disk                 (GID: 6    ) - 0 member(s)
+   lp                   (GID: 7    ) - 0 member(s)
+   mail                 (GID: 8    ) - 0 member(s)
+   news                 (GID: 9    ) - 0 member(s)
+   uucp                 (GID: 10   ) - 0 member(s)
+   man                  (GID: 12   ) - 0 member(s)
+   proxy                (GID: 13   ) - 0 member(s)
+   kmem                 (GID: 15   ) - 0 member(s)
+   dialout              (GID: 20   ) - 1 member(s)
+   fax                  (GID: 21   ) - 0 member(s)
+   voice                (GID: 22   ) - 0 member(s)
+   cdrom                (GID: 24   ) - 1 member(s)
+   floppy               (GID: 25   ) - 1 member(s)
+   tape                 (GID: 26   ) - 0 member(s)
+   ... (showing first 20 groups)
+
+=== SECURITY ALERTS ===
+Users with root privileges (UID 0):
+   - root
+
+Users who never logged in:
+
+[+] HTML report saved to: user_report.html
+======================================
+
