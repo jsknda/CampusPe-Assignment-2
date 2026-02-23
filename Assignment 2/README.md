@@ -1,6 +1,6 @@
- CampusPe Cybersecurity
+## CampusPe Cybersecurity
  
- Assignment 2
+# Assignment 2
 
 > **Course:** Introduction to Bash Scripting & Linux Automation  
 > **Track:** Cybersecurity  
@@ -362,4 +362,5 @@ sudo ./q5_user_report.sh
 
 
 *Tested on Kali Linux | CampusPe Cybersecurity*
+
 
